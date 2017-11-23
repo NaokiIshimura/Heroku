@@ -63,3 +63,7 @@ gem 'pg', group: :production
 # DBのマイグレーション
 $ heroku run rake db:migrate
 ```
+
+## その他
+
+[nulltask/heroku\-static\-provider: Static site provider for Heroku\.](https://github.com/nulltask/heroku-static-provider)

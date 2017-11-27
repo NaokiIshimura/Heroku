@@ -17,6 +17,9 @@ $ heroku open
 # dynoの再起動
 $ heroku ps:restart
 $ heroku restart
+
+# ログ
+$ heroku logs
 ```
 
 ## 環境変数
